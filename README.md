@@ -11,10 +11,10 @@ Anaconda - Python  3.7
 Read and show the image
 ### Step2
 Apply the filtering technique that we want to perform
+![Input](image1.jpg)
 ### Step3
 Show the filtered image
 
-![Input](image1.jpg)
 
 ## Program:
                Developed By   : M.RAJESHKANNAN

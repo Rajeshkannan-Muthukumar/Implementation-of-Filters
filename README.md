@@ -128,7 +128,7 @@ cv2.destroyAllWindows()
 
 ## OUTPUT:
 ### Original image
-![Output](OP1.png)
+![Output1](OP1.png)
 ### 1. Smoothing Filters
 
 i) Using Averaging Filter
@@ -150,6 +150,7 @@ iv) Using Median Filter
 ### 2. Sharpening Filters
 
 i) Using Laplacian Kernal
+
 ![Output](OP6.png)
 
 ii) Using Laplacian Operator

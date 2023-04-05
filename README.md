@@ -33,7 +33,7 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 
 kernel1 = np.ones((11,11),np.float32)/121
-box_filter = cv2.filter2D(original_image,-1,kernel2)
+box_filter = cv2.filter2D(original_image,-1,kernel1)
 cv2.imshow('box_filter',box_filter)
 cv2.waitKey(0)
 cv2.destroyAllWindows()

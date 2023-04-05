@@ -133,7 +133,7 @@ cv2.destroyAllWindows()
 
 i) Using Averaging Filter
 
-![Output](OP2.png)
+![Output](O2.png)
 
 ii) Using Weighted Averaging Filter
 
